@@ -18,7 +18,7 @@ I aim to solve at least one problem each day, improving problem-solving skills, 
 ## 🛠️ Tech Stack
 
 * **Language:** C++
-* **Platform:** [LeetCode](https://leetcode.com/)
+* **Platform:** [LeetCode](https://leetcode.com/u/pradeepxkumar/)
 * **Tools:** VS Code / Online IDEs
 
 ## 📅 Progress
