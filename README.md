@@ -28,5 +28,5 @@ I will be updating this repository **daily** with new problem solutions.
 ## 📬 Contact
 
 📧 [pradeep20052004@gmail.com](mailto:pradeep20052004@gmail.com)
-🔗 [LinkedIn](www.linkedin.com/in/pradeepxkumar5)
+🔗 [LinkedIn](https://www.linkedin.com/in/pradeepxkumar5/)
 
